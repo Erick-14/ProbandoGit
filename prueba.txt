@@ -4,3 +4,5 @@ EL TITULO: Prueba de Github
 Los comandos de aprendí son init, add, commit, log, status, reses y remover todos precedidos por git y después va la rama(branch)
 
 Otros comandos de este contenido son print(), if, def()
+
+Ahora hay que usar Github para llevar los documentos a la nube y que no se queden solo en local, es decir en la computadora.
