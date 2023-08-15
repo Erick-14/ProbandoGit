@@ -2,3 +2,5 @@
 EL TITULO: Prueba de Github 
 
 Los comandos de aprendí son init, add, commit, log, status, reses y remover todos precedidos por git y después va la rama(branch)
+
+Otros comandos de este contenido son print(), if, def()
